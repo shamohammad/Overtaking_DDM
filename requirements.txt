@@ -1,0 +1,12 @@
+pandas
+glob
+shutil
+os
+numpy
+scipy
+matplotlib
+csv
+pyddm
+seaborn
+matplotlib
+
