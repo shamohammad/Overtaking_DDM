@@ -3,7 +3,7 @@
 Built on Python 3.7
 
 Step 0:
-Download experiment_data_processed.zip from  https://osf.io/k3cmn/ and extract to folder where the python functions are located.
+Download experiment_data_processed.zip from  https://osf.io/k3cmn/ and extract the files (not the entire folder!) to directory of the code.
 
 Step 1:
 Create a virtual environment and install the packages lited in 'requirements.txt'.
