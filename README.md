@@ -20,7 +20,7 @@ Run '01_kinematic_parameters.py' to model the distance and TTA functions. The ou
 By using kinematic equations instead of reading the actual mean distance and TTA the drift-diffusion model fitting is sped up significantly.
 
 Step 5:
-Run '02_fit_model.py' to initiate the model fitting. This part could take a couple of hours. It took 4 hours on [PC specs]
+Run '02_fit_model.py' to initiate the model fitting. This part could take a couple of hours. It took in total about 4 hours on a i-9-9900K CPU @ 3.60GHz.
 
 Step 6:
 Run '03_simulation_models.ipynb' to simulate a range of initial velocity conditions in combination with the two distance conditions (160 m and 220 m).
